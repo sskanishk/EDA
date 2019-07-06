@@ -1,5 +1,5 @@
 # EDA
-Exploratory Data Analysis - it helps to understand the structure of data. 
+Exploratory Data Analysis - it helps to understand the structure of datasets. 
 
 1. Its a complete pack for beginner to understand EDA using python. 
 2. It shows how to slice data using Pandas. 
